@@ -1,0 +1,32 @@
+q = input("enter no 1 here ")
+w= input("enter no 1 here ")
+e = input("enter no 1 here ")
+r = input("enter no 1 here ")
+t = input("enter no 1 here ")
+y = input("enter no 1 here ")
+u = input("enter no 1 here ")
+i = input("enter no 1 here ")
+
+s = {q,w,e,r,t,y,u,i}
+print(s)
+
+s = set()
+
+n = input("enter no. here")
+s.add(int(n))
+n = input("enter no. here")
+s.add(int(n))
+n = input("enter no. here")
+s.add(int(n))
+n = input("enter no. here")
+s.add(int(n))
+n = input("enter no. here")
+s.add(int(n))
+n = input("enter no. here")
+s.add(int(n))
+n = input("enter no. here")
+s.add(int(n))
+n = input("enter no. here")
+s.add(int(n))
+
+print(s)

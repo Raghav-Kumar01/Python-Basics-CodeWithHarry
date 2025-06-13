@@ -1,0 +1,7 @@
+a = (1,565,5,5,66,544,4,748,False,"rohan", "shivam")
+print(a)
+no = a.count(66)
+print(no)
+i = a.index(66)
+print(i)
+print(len(a))
