@@ -4,5 +4,5 @@ marks = {                               #dict are mutable
     "rohan":54
 }
 
-# print(marks,type(marks))
+print(marks,type(marks))
 print(marks["harry"])

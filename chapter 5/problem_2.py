@@ -1,11 +1,11 @@
 q = input("enter no 1 here ")
-w= input("enter no 1 here ")
-e = input("enter no 1 here ")
-r = input("enter no 1 here ")
-t = input("enter no 1 here ")
-y = input("enter no 1 here ")
-u = input("enter no 1 here ")
-i = input("enter no 1 here ")
+w = input("enter no 2 here ")
+e = input("enter no 3 here ")
+r = input("enter no 4 here ")
+t = input("enter no 5 here ")
+y = input("enter no 6 here ")
+u = input("enter no 7 here ")
+i = input("enter no 8 here ")
 
 s = {q,w,e,r,t,y,u,i}
 print(s)
