@@ -1,0 +1,12 @@
+f = open("file.txt")
+# line = f.readline()
+# print(line , type(line))
+# line2 = f.readline()
+# print(line2 , type(line2))
+# # line = f.readlines()
+# print(line , type(line))
+line = f.readline()
+while(line != ""):
+    print(line)
+    line = f.readline()
+f.close()
